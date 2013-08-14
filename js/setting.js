@@ -18,7 +18,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* itami cofog */
-  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1': { icon: 'icons/helping-others.svg', color: '#005759', bcolor: '#935B3B' },
 };
 
 
